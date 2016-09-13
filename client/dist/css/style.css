@@ -1,0 +1,41 @@
+.card .card-title {
+    font-size: 15px;
+}
+.center-card {
+    margin:0 auto !important;
+    float: none !important;
+    display:block !important;
+}
+.home-list .card .card-action {
+    padding: 10px 20px !important;
+}
+.home-list .card-content .card-title .row {
+    margin-bottom: 0px;
+}
+.home-list .card-action [class*="material-icons"]{
+    float: left;
+    width: 20px;
+    padding: 4px 0px;
+}
+.line-detail-footer-card{
+    content: "";
+    display: table;
+    clear: both;
+}
+.line-detail-footer-card .block-icons{
+    float:left;
+    padding-right: 20px;
+}
+.detail-page h5 {
+    font-size: 1.34rem;
+}
+.detail-page .chip{
+    margin-right: 3px;
+    margin-bottom: 4px;
+}
+hr {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border: 0;
+  border-top: 1px solid #eee;
+}
